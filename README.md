@@ -1,1 +1,2 @@
 # AI-power-news-assistant
+AI Power News Assistant is a Python-based application that fetches real-time news using the NewsData.io API. Users can enter a news topic, and the application retrieves and displays up to 10 relevant articles with their titles and descriptions. It uses Python, REST API integration, JSON processing, and urllib to provide a simple and efficient command-line news search experience.
